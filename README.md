@@ -10,14 +10,8 @@
 
         
   <p align="center"> 🌱 Full stack developer in training, currently learning PHP.</p>
-<br>
-<br>
 <p align="center"> 🌱 Looking for opportunities to learn and grow in the area.</p>
-<br>
-<br>
 <p align="center"> 💻 I already have the ability to create websites in HTML & CSS.</p>
-<br>
-<br>
 <p align="center"> 💻 I already have basic knowledge and MySQL database applications.</p>
   
   
