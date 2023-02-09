@@ -7,16 +7,20 @@
         I'm currently graduating from the Faculty of Systems Analysis and Development and I'm looking to improve my front-end development skills and become an excellence professional. Seeking improvement and experience in the area of programming and various Technologies.
   </p>
 <br>
-- 🌱 Full stack developer in training, currently learning PHP.
+
+        
+  <p align="center"> 🌱 Full stack developer in training, currently learning PHP.</p>
 <br>
 <br>
-- 🌱 Looking for opportunities to learn and grow in the area.
+<p align="center"> 🌱 Looking for opportunities to learn and grow in the area.</p>
 <br>
 <br>
-- 💻 I already have the ability to create websites in HTML & CSS.
+<p align="center"> 💻 I already have the ability to create websites in HTML & CSS.</p>
 <br>
 <br>
-- 💻 I already have basic knowledge and MySQL database applications.
+<p align="center"> 💻 I already have basic knowledge and MySQL database applications.</p>
+  
+  
 <br>
 <br>
 <br>
