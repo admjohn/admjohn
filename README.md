@@ -1,7 +1,8 @@
 ### 
-  <p align="center">
-        Hi there 👋 I'm João.
-  </p>
+  <h1 align="center">
+      Hi there 👋 I'm João.   
+  </h1>
+
 <br>
   <p align="center">
         I'm currently graduating from the Faculty of Systems Analysis and Development and I'm looking to improve my front-end development skills and become an excellence professional. Seeking improvement and experience in the area of programming and various Technologies.
